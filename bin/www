@@ -5,7 +5,7 @@
  */
 
 const app = require('../app');
-const debug = require('debug')('express-locallibrary-tutorial:server');
+const debug = require('debug')('inventory-management-app:server');
 const http = require('http');
 
 /**
